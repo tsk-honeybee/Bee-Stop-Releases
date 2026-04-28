@@ -5,8 +5,7 @@ Public release channel for Bee Stop.
 This repository intentionally does not contain the Bee Stop source code. It hosts:
 
 - `latest.json` for plugin update checks
-- GitHub Release assets such as `BeeStop-mac-vst3.zip`
-- release notes and third-party notices
+- public binary download files under `downloads/latest`
 
 Update manifest URL:
 
@@ -17,9 +16,9 @@ https://raw.githubusercontent.com/tsk-honeybee/Bee-Stop-Releases/main/latest.jso
 Stable download URLs:
 
 ```text
-https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest/download/BeeStop-mac-vst3.zip
-https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest/download/BeeStop-mac-au.zip
-https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest/download/BeeStop-windows-vst3.vst3
+https://raw.githubusercontent.com/tsk-honeybee/Bee-Stop-Releases/main/downloads/latest/BeeStop-mac-vst3.zip
+https://raw.githubusercontent.com/tsk-honeybee/Bee-Stop-Releases/main/downloads/latest/BeeStop-mac-au.zip
+https://raw.githubusercontent.com/tsk-honeybee/Bee-Stop-Releases/main/downloads/latest/BeeStop-windows-vst3.zip
 ```
 
 ## Release Asset Names
