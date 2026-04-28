@@ -14,8 +14,8 @@
           "arm64",
           "x86_64"
         ],
-        "assetName": "BeeStop-mac-vst3.tar.gz",
-        "downloadUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest/download/BeeStop-mac-vst3.tar.gz",
+        "assetName": "BeeStop-mac-vst3.zip",
+        "downloadUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest/download/BeeStop-mac-vst3.zip",
         "releaseNotesUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest",
         "sha256": ""
       },
@@ -25,8 +25,8 @@
           "arm64",
           "x86_64"
         ],
-        "assetName": "BeeStop-mac-au.tar.gz",
-        "downloadUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest/download/BeeStop-mac-au.tar.gz",
+        "assetName": "BeeStop-mac-au.zip",
+        "downloadUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest/download/BeeStop-mac-au.zip",
         "releaseNotesUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest",
         "sha256": ""
       }
