@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "product": "Bee Stop",
   "productId": "com.beestop.audio.beestop",
-  "latestVersion": "0.2.1",
+  "latestVersion": "1.0.0",
   "minimumRequiredVersion": "0.2.0",
   "releaseDate": "2026-04-28",
-  "message": "Bee Stop 0.2.1 is available.",
+  "message": "Bee Stop 1.0.0 is available.",
   "platforms": {
     "macos": {
       "vst3": {
@@ -16,9 +16,9 @@
         ],
         "assetName": "BeeStop-mac-vst3.zip",
         "downloadUrl": "https://raw.githubusercontent.com/tsk-honeybee/Bee-Stop-Releases/main/downloads/latest/BeeStop-mac-vst3.zip",
-        "versionedDownloadUrl": "https://raw.githubusercontent.com/tsk-honeybee/Bee-Stop-Releases/main/downloads/0.2.1/BeeStop-mac-vst3.zip",
+        "versionedDownloadUrl": "https://raw.githubusercontent.com/tsk-honeybee/Bee-Stop-Releases/main/downloads/1.0.0/BeeStop-mac-vst3.zip",
         "releaseNotesUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases",
-        "sha256": "3b7411df046e78df7cf00c5f6a4b6378f4ee09a0f43b0288b558d4bc5433219a"
+        "sha256": "a98b592f29c1edf8ffe23025d2141949cf0f493fbfdec4117addeaedb4fda228"
       },
       "au": {
         "format": "au",
@@ -28,9 +28,9 @@
         ],
         "assetName": "BeeStop-mac-au.zip",
         "downloadUrl": "https://raw.githubusercontent.com/tsk-honeybee/Bee-Stop-Releases/main/downloads/latest/BeeStop-mac-au.zip",
-        "versionedDownloadUrl": "https://raw.githubusercontent.com/tsk-honeybee/Bee-Stop-Releases/main/downloads/0.2.1/BeeStop-mac-au.zip",
+        "versionedDownloadUrl": "https://raw.githubusercontent.com/tsk-honeybee/Bee-Stop-Releases/main/downloads/1.0.0/BeeStop-mac-au.zip",
         "releaseNotesUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases",
-        "sha256": "4dcd71ce7f92094bda68bbd9f499c9f7027923aba97389d3c687e7dc3b2a3e2e"
+        "sha256": "8ac99076c2da5d00ddacb1cd40b1bb1aaa6fae69e7bcfd1aff237a1db51d127d"
       }
     },
     "windows": {
@@ -41,9 +41,9 @@
         ],
         "assetName": "BeeStop-windows-vst3.zip",
         "downloadUrl": "https://raw.githubusercontent.com/tsk-honeybee/Bee-Stop-Releases/main/downloads/latest/BeeStop-windows-vst3.zip",
-        "versionedDownloadUrl": "https://raw.githubusercontent.com/tsk-honeybee/Bee-Stop-Releases/main/downloads/0.2.1/BeeStop-windows-vst3.zip",
+        "versionedDownloadUrl": "https://raw.githubusercontent.com/tsk-honeybee/Bee-Stop-Releases/main/downloads/1.0.0/BeeStop-windows-vst3.zip",
         "releaseNotesUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases",
-        "sha256": "28be6c63f8563c28323b87efd0a7c237cafb4744d51cb96d86f3e3ad6f0e284c"
+        "sha256": "16ee291cdf91755b1983ab97eecdfc1ca05c8c1489014554949852fa305a01f8"
       }
     }
   }
