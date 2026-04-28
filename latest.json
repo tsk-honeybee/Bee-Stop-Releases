@@ -8,15 +8,40 @@
   "message": "Bee Stop 0.2.0 is available.",
   "platforms": {
     "macos": {
-      "format": "vst3",
-      "architectures": [
-        "arm64",
-        "x86_64"
-      ],
-      "assetName": "BeeStop-mac-vst3.zip",
-      "downloadUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest/download/BeeStop-mac-vst3.zip",
-      "releaseNotesUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest",
-      "sha256": ""
+      "vst3": {
+        "format": "vst3",
+        "architectures": [
+          "arm64",
+          "x86_64"
+        ],
+        "assetName": "BeeStop-mac-vst3.tar.gz",
+        "downloadUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest/download/BeeStop-mac-vst3.tar.gz",
+        "releaseNotesUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest",
+        "sha256": ""
+      },
+      "au": {
+        "format": "au",
+        "architectures": [
+          "arm64",
+          "x86_64"
+        ],
+        "assetName": "BeeStop-mac-au.tar.gz",
+        "downloadUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest/download/BeeStop-mac-au.tar.gz",
+        "releaseNotesUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest",
+        "sha256": ""
+      }
+    },
+    "windows": {
+      "vst3": {
+        "format": "vst3",
+        "architectures": [
+          "x64"
+        ],
+        "assetName": "BeeStop-windows-vst3.vst3",
+        "downloadUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest/download/BeeStop-windows-vst3.vst3",
+        "releaseNotesUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest",
+        "sha256": ""
+      }
     }
   }
 }
