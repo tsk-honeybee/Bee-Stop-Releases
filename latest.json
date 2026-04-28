@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "product": "Bee Stop",
+  "productId": "com.beestop.audio.beestop",
+  "latestVersion": "0.2.0",
+  "minimumRequiredVersion": "0.2.0",
+  "releaseDate": "2026-04-28",
+  "message": "Bee Stop 0.2.0 is available.",
+  "platforms": {
+    "macos": {
+      "format": "vst3",
+      "architectures": [
+        "arm64",
+        "x86_64"
+      ],
+      "assetName": "BeeStop-mac-vst3.zip",
+      "downloadUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest/download/BeeStop-mac-vst3.zip",
+      "releaseNotesUrl": "https://github.com/tsk-honeybee/Bee-Stop-Releases/releases/latest",
+      "sha256": ""
+    }
+  }
+}

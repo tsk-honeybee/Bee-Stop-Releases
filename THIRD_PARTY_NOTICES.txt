@@ -1,0 +1,21 @@
+Bee Stop Third-Party Notices
+
+Bee Stop is built with JUCE 8.
+
+JUCE
+Copyright (c) Raw Material Software Limited.
+JUCE is available under JUCE licence terms or AGPLv3.
+See: https://juce.com/legal/juce-8-licence/
+
+VST is a trademark of Steinberg Media Technologies GmbH.
+VST3 SDK files are distributed by Steinberg under their SDK licence terms.
+See: https://steinbergmedia.github.io/vst3_dev_portal/
+
+The Bee Stop build may include code from third-party libraries bundled by JUCE,
+including permissively licensed components such as zlib, libpng, HarfBuzz,
+SheenBidi, FLAC, Ogg/Vorbis, and platform SDK support code. The corresponding
+licence texts are retained in the source dependency tree used to build the
+binary.
+
+This notice is informational and does not replace the original third-party
+licence texts.
